@@ -70,8 +70,6 @@
 
 ---
 
----
-
 ### ⚾ BETA - Baseball Community App (진행 중)
 
 - React Native Expo 기반 모바일 애플리케이션 (배포 목표 프로젝트)
