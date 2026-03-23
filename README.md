@@ -50,7 +50,7 @@
 ## 📁 Featured Projects
 
 ### 📱 Capstone Design Project
-- React Native CLI 기반 앱 개발
+- React Native (CLI) 기반 앱 개발
 - 👉 **프론트엔드 팀장 & PM 역할 수행**
 - UI/UX, 기획, 서비스 구조 설계 담당
 
@@ -58,7 +58,7 @@
 
 ### 🏆 SmartIT Competition Project
 - 교내 대회 동상 수상
-- React Native 기반 앱 개발
+- React Native (CLI) 기반 앱 개발
 - 👉 **프론트엔드 전체 개발 + 일부 API 연동**
 
 ---
