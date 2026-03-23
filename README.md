@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EAS-000000?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -66,6 +67,25 @@
 - 교내 대회 장려상 수상
 - React Native 기반 앱 개발
 - 👉 **프론트엔드 전체 개발 + 일부 API 연동**
+
+---
+
+---
+
+### ⚾ BETA - Baseball Community App (진행 중)
+
+- React Native Expo 기반 모바일 애플리케이션 (배포 목표 프로젝트)
+
+👉 **Frontend 리드 및 유지보수 담당**
+- 기존 코드베이스 분석 및 구조 개선
+- UI/UX 개선 및 사용자 경험 최적화
+- 백엔드 API 연동 로직 수정 및 기능 안정화
+- 팀 리딩 및 개발 방향 관리
+
+👉 **기여 내용**
+- 기존 구현된 기능 리팩토링 및 버그 수정
+- API 통신 구조 개선 및 상태 관리 로직 보완
+- 전체 프론트엔드 개발 담당 (단독)
 
 ---
 
