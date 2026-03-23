@@ -47,6 +47,8 @@
 
 ---
 
+## 📁 Featured Projects
+
 ### 📱 Capstone Design Project
 - React Native CLI 기반 앱 개발
 - 👉 **프론트엔드 팀장 & PM 역할 수행**
