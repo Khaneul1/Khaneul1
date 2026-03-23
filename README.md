@@ -47,15 +47,6 @@
 
 ---
 
-## 📁 Featured Projects
-
-### 💊 Medication Reminder Service
-- React 기반 모바일 반응형 웹
-- 복용약 등록 및 검색 / 알림 설정 / 마이페이지 구현
-- 👉 **Frontend 대부분 개발 + UI/UX 설계**
-
----
-
 ### 📱 Capstone Design Project
 - React Native CLI 기반 앱 개발
 - 👉 **프론트엔드 팀장 & PM 역할 수행**
