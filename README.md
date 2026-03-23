@@ -64,7 +64,7 @@
 ---
 
 ### 🏆 SmartIT Competition Project
-- 교내 대회 장려상 수상
+- 교내 대회 동상 수상
 - React Native 기반 앱 개발
 - 👉 **프론트엔드 전체 개발 + 일부 API 연동**
 
