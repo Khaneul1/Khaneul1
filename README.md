@@ -127,21 +127,23 @@
 
 ## 🌱 Currently Learning
 
-- ⚡ 더 나은 UI/UX 설계 방법
-- ⚡ 성능 최적화 및 구조 개선
-- ⚡ 실무 중심 프론트엔드 아키텍처
+⚡ Next.js 기반 SSR/CSR 구조 이해  
+⚡ TypeScript를 활용한 안정적인 코드 작성  
+⚡ 더 나은 UI/UX 설계 방법  
+⚡ 성능 최적화 및 프론트엔드 구조 개선  
+⚡ 실무 중심 프론트엔드 아키텍처
 
 ---
 
 ## 💬 Contact
 
-- ✉️ Email: (여기에 이메일)
-- 📝 Blog: (Velog 링크 넣기)
+- ✉️ Email: kohaneul1219@gmail.com
+- 📝 Blog: https://velog.io/@khaneul1/posts
 
 ---
 
 <div align="center">
 
-✨ **"사용자가 실제로 쓰는 서비스를 만드는 개발자"가 목표입니다.** ✨
+✨ **"모든 경험 속에서 배움을 찾고, 끈기와 열정으로 끝까지 성장해 나가는 개발자입니다."** ✨
 
 </div>
