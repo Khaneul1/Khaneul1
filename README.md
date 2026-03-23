@@ -59,7 +59,9 @@
 ### 🏆 MoaU - SmartIT Competition Project
 - 교내 대회 동상 수상
 - React Native (CLI) 기반 앱 개발
-- 👉 **프론트엔드 전체 개발 + 일부 API 연동**
+- 👉 **기여 내용**
+- 프론트엔드 전체 개발 (단독)
+- UI/UX 디자인 (Figma)
 
 ---
 
