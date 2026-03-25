@@ -83,7 +83,7 @@
 
 ---
 
-### 🌐 Kakao Cloud School Univ. Activity & Hackathon
+### 🌐 Kakao x goorm Univ. Activity & Hackathon
 
 #### 🏪 도장찍고가유 (충남톤 - 지역상권 리디자인)
 - 충청남도 전통시장 활성화를 위한 모바일 서비스
