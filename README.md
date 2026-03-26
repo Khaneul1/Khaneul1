@@ -35,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Haneul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaneul1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaneul1&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 ⚡ Next.js 기반 SSR/CSR 구조 이해  
