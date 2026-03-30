@@ -35,13 +35,13 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Project
 
-⚡ Next.js 기반 SSR/CSR 구조 이해  
-⚡ TypeScript를 활용한 안정적인 코드 작성  
-⚡ 더 나은 UI/UX 설계 방법  
-⚡ 성능 최적화 및 프론트엔드 구조 개선  
-⚡ 실무 중심 프론트엔드 아키텍처
+- 🏅 백석지음: https://github.com/Khaneul1/Jieum
+- 🎓 도장찍어가유: https://github.com/Khaneul1/2025_CHUNGNAM_TEAM_7_BE
+- 🎓 핀로그: https://github.com/Khaneul1/2025_SEASONTON_TEAM_41_BE
+- 🥉 MoaU: https://github.com/Khaneul1/2025_moau_final_repo
+- ⚾️ BETA: https://github.com/BETA-BasEball-Together-Always/BETA-Client 
 
 ---
 
